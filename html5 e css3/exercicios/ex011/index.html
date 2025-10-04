@@ -13,6 +13,17 @@
         <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
         <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
         <img src="imagens/foto-g.png" alt="Imagem flexivel">
+        <h1>Reproduzindo audios</h1>
+        <p>Vamos aprender a reproduzir audios em HTML5</p>
+        <!---<audio src="midia/song.mp3" controls autoplay></audio>--->
+        <!--MP3 WAV OGG-->
+        <audio preload="metadata" autoplay controls loop>
+            <source src="midia/song.mp3" type="audio/mpeg">
+            <source src="midia/song.wav" type="audio/wav">
+            <source src="midia/song.ogg" type="audio/ogg">
+            <p>Seu navegador não consegue reproduzir áudio<a href="midia/song.mp3">Clique aqui para baixar o arquivo</a></p>
+        </audio>
     </picture>
 </body>
 </html>
+
