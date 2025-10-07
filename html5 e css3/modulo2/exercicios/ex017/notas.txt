@@ -1,0 +1,6 @@
+
+Cores primaria: Amarelo, azul, vermelho
+
+Cores secundarias: laranja, violeta e verde
+
+Cores Terciarias: amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado, azul-esverdeado.
